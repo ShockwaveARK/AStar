@@ -51,6 +51,7 @@ Algoritmo A Star implementado para roteamento entre cidades
 0 2 1 3 2
 0 4 3 1 4
 0 0 2 4 1
+
 ```
 
  > Cada linha representa uma cidade e a sua respectiva distância entre as outras
