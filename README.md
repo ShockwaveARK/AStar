@@ -17,7 +17,11 @@ Algoritmo A Star implementado para roteamento entre cidades
 #Executar
  > Dentro da pasta após compilar
 
- > Execute: java Main <arquivo_de_teste> <Cidade_origem> <Cidade_destino>
+ > Execute: 
+ 
+```
+ java Main <arquivo_de_teste> <Cidade_origem> <Cidade_destino>
+```
 
 #Arquivos de teste
  > teste1.txt
